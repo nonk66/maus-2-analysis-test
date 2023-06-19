@@ -1,0 +1,66 @@
+* {
+    background-color: black;
+    font-family: serif;
+    color: #c00a00;
+}
+
+div, h1, h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    font-size:xx-large;
+}
+
+p {
+    font-size: x-large;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    text-align-last: center;
+    text-align: center;
+
+}
+
+#maus {
+    margin-top:2cm;
+    width:400px;
+    height: auto;
+}
+
+#back {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+h1 {
+    margin-top:0px;
+    margin-bottom:10px;
+    font-size: xx-large;
+}
+
+h3 {
+    font-size: x-large;
+    margin-top: 10px;
+}
+
+#banner-left {
+    float:left;
+    width: 165px;
+    height:auto;
+    margin-left: 40px;
+}
+
+#banner-right {
+    float:right;
+    width: 165px;
+    height:auto;
+    margin-right: 40px;
+}
+
+
+
+
+
